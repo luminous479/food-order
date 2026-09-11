@@ -54,14 +54,3 @@ food-order-worker/
 ```
 
 
-## Learning Objectives
-
-This project was built to strengthen practical understanding of **Go concurrency** and prepare for building concurrent backend services using Go.
-
-### Technologies
-
-* Go
-* Goroutines
-* Channels
-* `sync.WaitGroup`
-* `sync.Mutex`
